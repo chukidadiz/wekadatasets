@@ -1,0 +1,93 @@
+@relation 'Online Exam Sentiment'
+
+@attribute ﻿text String
+@attribute 'Internet Problem' {No,Yes}
+
+@data
+None,No
+None,No
+None,No
+'I haven’t encountered any problem',No
+None,No
+None,No
+'The choices moves when you slide down and slide up.',No
+'Wala naman po problem sa online exam sir kaya lang baka sa susunod bago makapag exam madaming issues like access sa canvas , battery ng device, or pag may unforeseen situation na natapat sa timeframe. It may not be as effective as a classroom exam.',No
+None,No
+None,No
+None,No
+'Yes, because of slow internet connection.',Yes
+'WE HAVE NO WIFI SIR.',Yes
+No,No
+'Slow internet connection',Yes
+'Yes, I always tend to click the exit button, accidentally.',No
+No,No
+NA,No
+'The lost of connection and slow internet connection',Yes
+'I think there is no answer on the choices',No
+'The limited time is sometimes time pressure.',No
+'Sudden disconnection due to power interruption',Yes
+'Two exams are scheduled on the same timme',No
+'Yes,',No
+'Conflict of scheduled',No
+yes,No
+'No, the exam goes smoothly',No
+'The main problem is the time allotment. I was being nagged by my parents for using my phone the whole because of online exams and other related matters to online classes.',No
+'Schedule of different exam. It overlap with each other po.',No
+No,No
+No,No
+'Poor internet connection',Yes
+'I don t really have. Pero sa plates madami kase kaming dpa nadidiscuss so ang hirap umintindi through chat',No
+'Yes, internet interruption. Not all students have an internet connection.',Yes
+NONE,No
+'Internet connection is the primary problem and overlapping of some exam schedules.',Yes
+'The conflict schedules of the exams',No
+'I did. Since i went back to my hometown due to the COVID Yes9 situation and the community quarantine happening right now in NCR, the internet access here in our place is not as fast as it is in the city, and also, probably due to the huge number of users for the departmental exams, the online examination didnt work smoothly. But I still managed to take the examinations which is good enough. however, i had a conflict with one of our subject that requires solution immediately sent after the exam, and that was the time when the interface kind of slowed down.',Yes
+None,No
+'Yes. Is TIP ;Management/Departments expecting all students to have internet access at home? WE ARE NOT ALLOWED TO GO OUTSIDE, All internet shops are closed.',No
+'yes! and it saddens me. im taking online exams while im in duty at work just to catch up. since they are orders coming i had to do it. im working in a food industry they are certain places that signal is jamming. muntik na akong madisconnect thats why kahit ang tagal pa magload ng questions sinasagutan ko na kahit di nakikita just to have an answer. because once it is disconnected, i heard you are automatically zero. we have different responsibilities while we are outside of the school. lucky for me i have professor that extends the due just for other student to catch up. i missed my finals in physica because of my duty. now i dont know what to do.',Yes
+'slow signal',Yes
+No,No
+'Yes, because of the assigned schedule. it has a conflict between with our major course.',No
+'Low internet connection',Yes
+None,No
+'Internet Connection',Yes
+'Other exams have problems but our professors are trying to fix it.',No
+No,No
+'Yes. Some items are blank same choices and mispelled. Jumbling choices also affects the definition of the choice itself choice a says both a and b???There should also push notifs when there are new assignments uploaded. Internet connection also',No
+None,No
+no,No
+None,No
+'Yass, Unexpected internet disconnection or slow connection',Yes
+'Yes, a lot.',No
+'No, not a single problem encountered',No
+none,No
+'The only problem that I encountered is while I was taking the online exam the page crashed but it went okay after I refresh it. I hope that they will give consideration to my fellow students that can t take the online exams because they do not have laptop or even signals at home to use data. Thank you!',Yes
+Lag,Yes
+'Slow internet connection',Yes
+no,No
+'Yes, the bugs and glitches that sometimes the given jpg is not appearing',No
+'Sometimes the time running so fast.Unstable ibternet connection is also a huge problem, for every question required limited time to answer.',Yes
+'YES, internet connection and mas may kailangan intindihin lalo na ngayon may virus, eventhough each of us ay nasa bahay lang we never know di po lahat ng studyante ay may laptop and fast internet connection.',Yes
+No,No
+'yes, internet connection',Yes
+'I don t know how online servers work but I felt a while ago that there is a slowdown in Canvas if there are simultaneous users. In addition, I think that the Canvas is in its very early state for the reason that it has bugs. (questions getting repeated, same choices, etc) The way the professors handled the exam is also bad. We had conflict in schedule. 9 3 No AM to YesYes 3 No AM, a 9  No No AM to Yes2  No No pm, and YesYes 3 No AM to Yes 3 No PM. The final exams are better skipped (or at least scheduled properly) than being implemented and executed in a very bad way. The time is in the discretions of the professor. They should have talked before posting their exams.',Yes
+'not all students have good and reliable internet connection. I keep disconnecting on canvas.',Yes
+'None, if having conflicts in time with different courses then yes',No
+Nothing,No
+'none so far',No
+'Proceeding to the next question or choosing the answers took time.',No
+'Plenty of bugs',No
+'There were repeated choices in an exam.',No
+'Unstable network',Yes
+No,No
+No,No
+'No, Beacause it works on cellphones, but on the final project I have a problem, I can t begin with the project because I have no laptop/computer, I can t go to the computer shop because of lockdown here in Batangas,I hope you understand sir, I only rely on my group mates,',No
+No,No
+'Slow connection.',Yes
+'Some the answers are not in the choices. Some of my examination score in some of the courses are lower than what I expect, which indicates that some of the answer keys might be wrong. But still I give props to the team behind these because I know you guys got Noff-guard by the recent problems and leading to suspension of classes. More power and God bless!',No
+yes,No
+'our internet is slow so i cant answer properly',Yes
+'No I m not',No
+'No I have not',No
+'So far, none. Except to our internet connection.',Yes
+'Some pictures failed to load',No
